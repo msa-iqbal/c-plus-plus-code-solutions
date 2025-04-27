@@ -1,7 +1,7 @@
 # C++ Problem Solutions
 
-Welcome to my collection of problem-solving solutions written in C++ programming language!  
-This repository showcases my journey in practicing and mastering C++ through various challenges and exercises.
+Welcome to my collection of problem-solving solutions written in **C++ programming language**!  
+This repository showcases my journey in practicing and mastering **C++** through various challenges and exercises.
 
 ### What's Inside
 
